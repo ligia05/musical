@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/musical/static/css/main.d3c39e68.css",
+    "main.js": "/musical/static/js/main.b8013d12.js",
+    "static/js/453.e78eeb24.chunk.js": "/musical/static/js/453.e78eeb24.chunk.js",
+    "index.html": "/musical/index.html",
+    "main.d3c39e68.css.map": "/musical/static/css/main.d3c39e68.css.map",
+    "main.b8013d12.js.map": "/musical/static/js/main.b8013d12.js.map",
+    "453.e78eeb24.chunk.js.map": "/musical/static/js/453.e78eeb24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c39e68.css",
+    "static/js/main.b8013d12.js"
+  ]
+}
